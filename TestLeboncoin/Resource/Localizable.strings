@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  TestLeboncoin
+
+  Created by Nikolaï RETAMAL on 19/07/2023.
+  
+*/
+
+// MARK: Error messages
+"network.error.badUrl" = "URL formatting problem";
+"network.error.requestError" = "Request returned with an error";
+"network.error.decodingError" = "Unable to process server response";
+
+// MARK: Everything else
+"product.list.title" = "Produits";
+"product.filter.title" = "Catégories";
+"product.details.title" = "Détail annonce";
+"product.details.date.title" = "Publié le ";
+"product.details.category.title" = "Catégorie: ";
+"product.details.siret.title" = "Siret: ";
+"product.details.description" = "Description du Produit";
+"product.urgent" = "Urgent";
+"product.filter.clear" = "Tout";
