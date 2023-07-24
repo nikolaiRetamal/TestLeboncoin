@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "33906809-8E03-43E2-B93C-2853B3F6532A",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:TestLeboncoin.xcodeproj",
+        "identifier" : "0870D53F2A66913E00E1072D",
+        "name" : "TestLeboncoinTests"
+      }
+    }
+  ],
+  "version" : 1
+}

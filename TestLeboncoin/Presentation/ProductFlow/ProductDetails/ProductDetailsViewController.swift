@@ -139,6 +139,8 @@ class ProductDetailsViewController: UIViewController {
         view.backgroundColor = .secondarySystemBackground
         initViews()
         setupConstraints()
+        // We don't fetch the data here since we don't an API endpoint to retrieve details
+        // otherwise it would be a better design to load details with up-to-date data. 
         load(with: viewModel.product)
     }
 

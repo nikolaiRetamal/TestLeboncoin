@@ -144,7 +144,6 @@
 		084B74D42A6B32DE0060F4EB /* NetworkProviderMock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkProviderMock.swift; sourceTree = "<group>"; };
 		084B74D62A6B35A60060F4EB /* MockValues.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockValues.swift; sourceTree = "<group>"; };
 		084B74D82A6B391C0060F4EB /* DateFormatter+iso8601.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DateFormatter+iso8601.swift"; sourceTree = "<group>"; };
-		085E44632A6B3F2300AB644D /* TestLeboncoin.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = TestLeboncoin.xctestplan; sourceTree = "<group>"; };
 		086905DC2A67D4DD001B6173 /* CategoryRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryRepository.swift; sourceTree = "<group>"; };
 		086905DE2A67D4F4001B6173 /* ProductRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductRepository.swift; sourceTree = "<group>"; };
 		086905E02A67D506001B6173 /* CategoryRepositoryProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryRepositoryProtocol.swift; sourceTree = "<group>"; };
@@ -166,6 +165,7 @@
 		089C699D2A6C963F0028063F /* ProductListItemViewTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductListItemViewTests.swift; sourceTree = "<group>"; };
 		089C699F2A6DC65A0028063F /* RepositoryTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepositoryTests.swift; sourceTree = "<group>"; };
 		089C69A12A6DC6F70028063F /* DataSourceMocks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataSourceMocks.swift; sourceTree = "<group>"; };
+		08EC924A2A6E7036007324E9 /* TestPlan.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = TestPlan.xctestplan; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -428,7 +428,7 @@
 		0870D5212A66913C00E1072D = {
 			isa = PBXGroup;
 			children = (
-				085E44632A6B3F2300AB644D /* TestLeboncoin.xctestplan */,
+				08EC924A2A6E7036007324E9 /* TestPlan.xctestplan */,
 				0870D52C2A66913C00E1072D /* TestLeboncoin */,
 				0870D5432A66913E00E1072D /* TestLeboncoinTests */,
 				0870D54D2A66913E00E1072D /* TestLeboncoinUITests */,

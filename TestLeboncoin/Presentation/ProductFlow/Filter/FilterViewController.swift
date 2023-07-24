@@ -19,6 +19,9 @@ class FilterViewController: LoaderController {
         initViews()
         setupConstraints()
         bind()
+        // We don't need to fetch the data here, since we already have everything we need
+        // However in a real life situation we may (or may not) want to reload the categories
+        // on the fly to have everything up-to-date
         viewModel.fetchData()
     }
 
